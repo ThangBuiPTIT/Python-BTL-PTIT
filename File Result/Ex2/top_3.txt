@@ -1,0 +1,740 @@
+Metric: stats_standard_Matches Played
+Top 3 highest:
+- Youri Tielemans: 35.00
+- Anthony Elanga: 35.00
+- Tyrick Mitchell: 35.00
+Top 3 lowest:
+- Ayden Heaven: 2.00
+- Billy Gilmour: 2.00
+- Tyler Fredricson: 2.00
+
+Metric: stats_standard_Minutes
+Top 3 highest:
+- Virgil van Dijk: 3150.00
+- Nathan Collins: 3150.00
+- Matz Sels: 3150.00
+Top 3 lowest:
+- Ayden Heaven: 95.00
+- Jahmai Simpson-Pusey: 96.00
+- Billy Gilmour: 98.00
+
+Metric: stats_standard_Goals
+Top 3 highest:
+- Mohamed Salah: 28.00
+- Alexander Isak: 23.00
+- Erling Haaland: 21.00
+Top 3 lowest:
+- Aaron Cresswell: 0.00
+- Aaron Ramsdale: 0.00
+- Łukasz Fabiański: 0.00
+
+Metric: stats_standard_Assists
+Top 3 highest:
+- Mohamed Salah: 18.00
+- Jacob Murphy: 11.00
+- Mikkel Damsgaard: 10.00
+Top 3 lowest:
+- Joshua Acheampong: 0.00
+- Joe Aribo: 0.00
+- Joe Gomez: 0.00
+
+Metric: stats_standard_Yellow Cards
+Top 3 highest:
+- Saša Lukić: 12.00
+- Will Hughes: 11.00
+- Morgan Gibbs-White: 11.00
+Top 3 lowest:
+- Wataru Endo: 0.00
+- William Osula: 0.00
+- Archie Gray: 0.00
+
+Metric: stats_standard_Red Cards
+Top 3 highest:
+- Bruno Fernandes: 2.00
+- Myles Lewis-Skelly: 2.00
+- Jack Stephens: 2.00
+Top 3 lowest:
+- Mateus Fernandes: 0.00
+- Michael Keane: 0.00
+- Michael Kayode: 0.00
+
+Metric: stats_standard_xG: Expected Goals
+Top 3 highest:
+- Mohamed Salah: 24.00
+- Erling Haaland: 20.80
+- Alexander Isak: 19.90
+Top 3 lowest:
+- Aaron Ramsdale: 0.00
+- Łukasz Fabiański: 0.00
+- Ben Godfrey: 0.00
+
+Metric: stats_standard_xAG: Exp. Assisted Goals
+Top 3 highest:
+- Mohamed Salah: 13.20
+- Cole Palmer: 10.00
+- Son Heung-min: 8.20
+Top 3 lowest:
+- Aaron Ramsdale: 0.00
+- Łukasz Fabiański: 0.00
+- Alphonse Areola: 0.00
+
+Metric: stats_standard_Progressive Carries
+Top 3 highest:
+- Jeremy Doku: 189.00
+- Mohamed Salah: 143.00
+- Noni Madueke: 142.00
+Top 3 lowest:
+- Aaron Ramsdale: 0.00
+- Łukasz Fabiański: 0.00
+- Yerson Mosquera: 0.00
+
+Metric: stats_standard_Progressive Passes
+Top 3 highest:
+- Bruno Fernandes: 281.00
+- Joško Gvardiol: 251.00
+- Bruno Guimarães: 247.00
+Top 3 lowest:
+- Aaron Ramsdale: 0.00
+- Łukasz Fabiański: 0.00
+- Alphonse Areola: 0.00
+
+Metric: stats_standard_Progressive Passes Rec
+Top 3 highest:
+- Mohamed Salah: 440.00
+- Bryan Mbeumo: 319.00
+- Alejandro Garnacho: 281.00
+Top 3 lowest:
+- Aaron Ramsdale: 0.00
+- Łukasz Fabiański: 0.00
+- Antonín Kinský: 0.00
+
+Metric: stats_standard_Goals/90
+Top 3 highest:
+- Jáder Durán: 0.99
+- Donyell Malen: 0.92
+- James Mcatee: 0.89
+Top 3 lowest:
+- James Bree: 0.00
+- Kobbie Mainoo: 0.00
+- Konstantinos Mavropanos: 0.00
+
+Metric: stats_standard_Assists/90
+Top 3 highest:
+- Tyrique George: 0.87
+- Danny Ings: 0.63
+- Bukayo Saka: 0.58
+Top 3 lowest:
+- Tyrone Mings: 0.00
+- Victor Lindelöf: 0.00
+- Altay Bayındır: 0.00
+
+Metric: stats_standard_xG/90
+Top 3 highest:
+- James Mcatee: 0.83
+- Erling Haaland: 0.76
+- Danny Ings: 0.72
+Top 3 lowest:
+- Aaron Ramsdale: 0.00
+- Łukasz Fabiański: 0.00
+- Adam Webster: 0.00
+
+Metric: stats_standard_xAG/90
+Top 3 highest:
+- Tyrique George: 0.63
+- Mykhailo Mudryk: 0.58
+- Philip Billing: 0.54
+Top 3 lowest:
+- Łukasz Fabiański: 0.00
+- Aaron Ramsdale: 0.00
+- Nick Pope: 0.00
+
+Metric: stats_shooting_Shots on Target %
+Top 3 highest:
+- Séamus Coleman: 100.00
+- Ryan Fraser: 100.00
+- Conor Coady: 100.00
+Top 3 lowest:
+- Aaron Cresswell: 0.00
+- Aaron Ramsdale: 0.00
+- Łukasz Fabiański: 0.00
+
+Metric: stats_shooting_Shots on target/90
+Top 3 highest:
+- Carlos Alcaraz: 9.00
+- Donyell Malen: 2.76
+- Luis Sinisterra: 2.29
+Top 3 lowest:
+- Antonín Kinský: 0.00
+- Łukasz Fabiański: 0.00
+- Victor Lindelöf: 0.00
+
+Metric: stats_shooting_Goals/Shot
+Top 3 highest:
+- John Stones: 1.00
+- Myles Lewis-Skelly: 0.50
+- Hwang Hee-chan: 0.40
+Top 3 lowest:
+- Jeffrey Schlupp: 0.00
+- Odsonne Édouard: 0.00
+- Oleksandr Zinchenko: 0.00
+
+Metric: stats_shooting_Average Shot Distance
+Top 3 highest:
+- Ibrahim Sangaré: 32.00
+- Emmanuel Agbadou: 31.80
+- Ryan Fraser: 31.60
+Top 3 lowest:
+- Łukasz Fabiański: 0.00
+- Aaron Ramsdale: 0.00
+- Victor Lindelöf: 0.00
+
+Metric: stats_passing_Passes Completed
+Top 3 highest:
+- Virgil van Dijk: 2543.00
+- Joško Gvardiol: 2321.00
+- William Saliba: 2320.00
+Top 3 lowest:
+- Reiss Nelson: 0.00
+- Jordan Ayew: 8.00
+- William Osula: 11.00
+
+Metric: stats_passing_Pass Completion %
+Top 3 highest:
+- Carlos Alcaraz: 100.00
+- William Saliba: 94.20
+- Nathan Aké: 93.90
+Top 3 lowest:
+- Reiss Nelson: 0.00
+- Matz Sels: 51.10
+- Altay Bayındır: 55.50
+
+Metric: stats_passing_Total Passing Distance
+Top 3 highest:
+- Virgil van Dijk: 46352.00
+- Levi Colwill: 40277.00
+- William Saliba: 39927.00
+Top 3 lowest:
+- Reiss Nelson: 0.00
+- William Osula: 126.00
+- Albert Grønbaek: 135.00
+
+Metric: stats_passing_Passes Completed (Short)
+Top 3 highest:
+- Joško Gvardiol: 1123.00
+- Virgil van Dijk: 1042.00
+- William Saliba: 978.00
+Top 3 lowest:
+- Reiss Nelson: 0.00
+- Jordan Ayew: 3.00
+- Mark Travers: 6.00
+
+Metric: stats_passing_Pass Completion % (Medium)
+Top 3 highest:
+- Alex Palmer: 100.00
+- Martin Dúbravka: 100.00
+- Neto: 100.00
+Top 3 lowest:
+- Reiss Nelson: 0.00
+- Beto: 50.00
+- William Osula: 50.00
+
+Metric: stats_passing_Pass Completion % (Long)
+Top 3 highest:
+- Antony: 100.00
+- Carlos Alcaraz: 100.00
+- Danny Welbeck: 100.00
+Top 3 lowest:
+- William Osula: 0.00
+- Ben Godfrey: 0.00
+- Tyrique George: 0.00
+
+Metric: stats_passing_Key Passes
+Top 3 highest:
+- Bruno Fernandes: 84.00
+- Mohamed Salah: 82.00
+- Cole Palmer: 82.00
+Top 3 lowest:
+- Woyo Coulibaly: 0.00
+- Aaron Ramsdale: 0.00
+- Łukasz Fabiański: 0.00
+
+Metric: stats_passing_Passes into Final Third
+Top 3 highest:
+- Virgil van Dijk: 269.00
+- Joško Gvardiol: 237.00
+- Youri Tielemans: 228.00
+Top 3 lowest:
+- Ali Al Hamadi: 0.00
+- Tyrique George: 0.00
+- Reiss Nelson: 0.00
+
+Metric: stats_passing_Passes into Penalty Area
+Top 3 highest:
+- Mohamed Salah: 86.00
+- Martin Ødegaard: 81.00
+- Alex Iwobi: 78.00
+Top 3 lowest:
+- Ayden Heaven: 0.00
+- Martin Dúbravka: 0.00
+- Mark Travers: 0.00
+
+Metric: stats_passing_Crosses into Penalty Area
+Top 3 highest:
+- Antonee Robinson: 28.00
+- Pedro Porro: 26.00
+- Milos Kerkez: 23.00
+Top 3 lowest:
+- Albert Grønbaek: 0.00
+- Adam Webster: 0.00
+- Woyo Coulibaly: 0.00
+
+Metric: stats_passing_Progressive Passes
+Top 3 highest:
+- Bruno Fernandes: 281.00
+- Joško Gvardiol: 251.00
+- Bruno Guimarães: 247.00
+Top 3 lowest:
+- Aaron Ramsdale: 0.00
+- Łukasz Fabiański: 0.00
+- Alphonse Areola: 0.00
+
+Metric: stats_gca_Shot-Creating Actions
+Top 3 highest:
+- Cole Palmer: 190.00
+- Bruno Fernandes: 169.00
+- Mohamed Salah: 157.00
+Top 3 lowest:
+- Alex McCarthy: 0.00
+- Benoît Badiashile: 0.00
+- Ben Mee: 0.00
+
+Metric: stats_gca_Shot-Creating Actions/90
+Top 3 highest:
+- Carlos Alcaraz: 9.00
+- Philip Billing: 7.83
+- Luis Guilherme: 6.52
+Top 3 lowest:
+- Martin Dúbravka: 0.00
+- Massimo Luongo: 0.00
+- Ben Mee: 0.00
+
+Metric: stats_gca_Goal-Creating Actions
+Top 3 highest:
+- Mohamed Salah: 26.00
+- Bukayo Saka: 22.00
+- Mikkel Damsgaard: 21.00
+Top 3 lowest:
+- Aaron Cresswell: 0.00
+- Aaron Ramsdale: 0.00
+- Łukasz Fabiański: 0.00
+
+Metric: stats_gca_Goal-Creating Actions/90
+Top 3 highest:
+- Bukayo Saka: 1.29
+- Solly March: 1.08
+- Amad Diallo: 0.93
+Top 3 lowest:
+- Aaron Cresswell: 0.00
+- Aaron Ramsdale: 0.00
+- Yves Bissouma: 0.00
+
+Metric: stats_defense_Tackles
+Top 3 highest:
+- Idrissa Gana Gueye: 124.00
+- Daniel Muñoz: 113.00
+- João Gomes: 105.00
+Top 3 lowest:
+- Aaron Ramsdale: 0.00
+- Łukasz Fabiański: 0.00
+- Altay Bayındır: 0.00
+
+Metric: stats_defense_Tackles Won
+Top 3 highest:
+- Daniel Muñoz: 74.00
+- Idrissa Gana Gueye: 74.00
+- Moisés Caicedo: 64.00
+Top 3 lowest:
+- Aaron Ramsdale: 0.00
+- Łukasz Fabiański: 0.00
+- William Osula: 0.00
+
+Metric: stats_defense_Dribbles Challenged
+Top 3 highest:
+- Alexis Mac Allister: 104.00
+- Trent Alexander-Arnold: 103.00
+- João Gomes: 102.00
+Top 3 lowest:
+- Armando Broja: 0.00
+- Caoimhín Kelleher: 0.00
+- Carlos Alcaraz: 0.00
+
+Metric: stats_defense_Challenges Lost
+Top 3 highest:
+- João Gomes: 60.00
+- Elliot Anderson: 57.00
+- Trent Alexander-Arnold: 55.00
+Top 3 lowest:
+- Woyo Coulibaly: 0.00
+- Willy Boly: 0.00
+- Lloyd Kelly: 0.00
+
+Metric: stats_defense_Blocks
+Top 3 highest:
+- Nathan Collins: 71.00
+- Murillo: 67.00
+- Tyrick Mitchell: 62.00
+Top 3 lowest:
+- Willian: 0.00
+- Tyrique George: 0.00
+- William Osula: 0.00
+
+Metric: stats_defense_Shots Blocked
+Top 3 highest:
+- Nathan Collins: 51.00
+- Dara O'Shea: 47.00
+- Murillo: 44.00
+Top 3 lowest:
+- Łukasz Fabiański: 0.00
+- Aaron Ramsdale: 0.00
+- Antony: 0.00
+
+Metric: stats_defense_Passes Blocked
+Top 3 highest:
+- Alexis Mac Allister: 55.00
+- Antoine Semenyo: 51.00
+- Tyrick Mitchell: 50.00
+Top 3 lowest:
+- Aaron Ramsdale: 0.00
+- Łukasz Fabiański: 0.00
+- William Osula: 0.00
+
+Metric: stats_defense_Interceptions
+Top 3 highest:
+- Aaron Wan-Bissaka: 60.00
+- Ryan Gravenberch: 57.00
+- Antonee Robinson: 57.00
+Top 3 lowest:
+- Antonín Kinský: 0.00
+- Arijanet Muric: 0.00
+- Michail Antonio: 0.00
+
+Metric: stats_possession_Touches
+Top 3 highest:
+- Virgil van Dijk: 3125.00
+- Joško Gvardiol: 2903.00
+- Levi Colwill: 2728.00
+Top 3 lowest:
+- Reiss Nelson: 2.00
+- Jordan Ayew: 12.00
+- Carlos Alcaraz: 17.00
+
+Metric: stats_possession_Touches (Def Pen)
+Top 3 highest:
+- Mark Flekken: 1338.00
+- Bernd Leno: 1097.00
+- Bart Verbruggen: 1034.00
+Top 3 lowest:
+- Carlos Alcaraz: 0.00
+- Emi Buendía: 0.00
+- Jordan Ayew: 0.00
+
+Metric: stats_possession_Touches (Def 3rd)
+Top 3 highest:
+- Mark Flekken: 1660.00
+- Jordan Pickford: 1494.00
+- Bernd Leno: 1354.00
+Top 3 lowest:
+- Jordan Ayew: 0.00
+- Carlos Alcaraz: 1.00
+- Reiss Nelson: 1.00
+
+Metric: stats_possession_Touches (Mid 3rd)
+Top 3 highest:
+- Virgil van Dijk: 1719.00
+- William Saliba: 1519.00
+- Joško Gvardiol: 1474.00
+Top 3 lowest:
+- Neto: 0.00
+- Danny Ward: 0.00
+- Jason Steele: 0.00
+
+Metric: stats_possession_Touches (Att 3rd)
+Top 3 highest:
+- Mohamed Salah: 1023.00
+- Bryan Mbeumo: 913.00
+- Bruno Fernandes: 888.00
+Top 3 lowest:
+- Aaron Ramsdale: 0.00
+- Łukasz Fabiański: 0.00
+- Alex McCarthy: 0.00
+
+Metric: stats_possession_Touches (Att Pen)
+Top 3 highest:
+- Mohamed Salah: 327.00
+- Alexander Isak: 178.00
+- Antoine Semenyo: 176.00
+Top 3 lowest:
+- Aaron Ramsdale: 0.00
+- Łukasz Fabiański: 0.00
+- Alex McCarthy: 0.00
+
+Metric: stats_possession_Take-Ons Attempted
+Top 3 highest:
+- Mohammed Kudus: 194.00
+- Jeremy Doku: 185.00
+- Morgan Rogers: 153.00
+Top 3 lowest:
+- Alex Palmer: 0.00
+- Alex McCarthy: 0.00
+- Mark Travers: 0.00
+
+Metric: stats_possession_Successful Take-On %
+Top 3 highest:
+- Łukasz Fabiański: 100.00
+- Wataru Endo: 100.00
+- Tyrone Mings: 100.00
+Top 3 lowest:
+- Aaron Ramsdale: 0.00
+- André Onana: 0.00
+- Altay Bayındır: 0.00
+
+Metric: stats_possession_Tackled During Take-On Percentage
+Top 3 highest:
+- Armel Bella Kotchap: 100.00
+- Santiago Bueno: 100.00
+- Benoît Badiashile: 100.00
+Top 3 lowest:
+- Łukasz Fabiański: 0.00
+- Aaron Ramsdale: 0.00
+- Alisson: 0.00
+
+Metric: stats_possession_Carries
+Top 3 highest:
+- Joško Gvardiol: 1886.00
+- Virgil van Dijk: 1746.00
+- William Saliba: 1675.00
+Top 3 lowest:
+- Reiss Nelson: 1.00
+- Jordan Ayew: 6.00
+- Carlos Alcaraz: 12.00
+
+Metric: stats_possession_Progressive Carrying Distance
+Top 3 highest:
+- Jan Paul van Hecke: 6740.00
+- Joško Gvardiol: 5715.00
+- Rúben Dias: 5295.00
+Top 3 lowest:
+- Reiss Nelson: 4.00
+- Jordan Ayew: 12.00
+- Albert Grønbaek: 15.00
+
+Metric: stats_possession_Progressive Carries
+Top 3 highest:
+- Jeremy Doku: 189.00
+- Mohamed Salah: 143.00
+- Noni Madueke: 142.00
+Top 3 lowest:
+- Aaron Ramsdale: 0.00
+- Łukasz Fabiański: 0.00
+- Yerson Mosquera: 0.00
+
+Metric: stats_possession_Carries into Final Third
+Top 3 highest:
+- Alex Iwobi: 102.00
+- Joško Gvardiol: 92.00
+- Matheus Cunha: 88.00
+Top 3 lowest:
+- Aaron Ramsdale: 0.00
+- Albert Grønbaek: 0.00
+- Alex Palmer: 0.00
+
+Metric: stats_possession_Carries into Penalty Area
+Top 3 highest:
+- Mohamed Salah: 115.00
+- Jeremy Doku: 90.00
+- Noni Madueke: 87.00
+Top 3 lowest:
+- Aaron Cresswell: 0.00
+- Aaron Ramsdale: 0.00
+- Łukasz Fabiański: 0.00
+
+Metric: stats_possession_Miscontrols
+Top 3 highest:
+- Mohamed Salah: 109.00
+- Morgan Rogers: 104.00
+- Liam Delap: 99.00
+Top 3 lowest:
+- Łukasz Fabiański: 0.00
+- Bernd Leno: 0.00
+- Carlos Alcaraz: 0.00
+
+Metric: stats_possession_Dispossessed
+Top 3 highest:
+- Mohammed Kudus: 89.00
+- Bruno Guimarães: 73.00
+- Dejan Kulusevski: 73.00
+Top 3 lowest:
+- Ben Davies: 0.00
+- Mads Hermansen: 0.00
+- Ben Mee: 0.00
+
+Metric: stats_possession_Passes Received
+Top 3 highest:
+- Virgil van Dijk: 2153.00
+- Joško Gvardiol: 2132.00
+- William Saliba: 2056.00
+Top 3 lowest:
+- Reiss Nelson: 1.00
+- Jordan Ayew: 9.00
+- Carlos Alcaraz: 12.00
+
+Metric: stats_possession_Progressive Passes Rec
+Top 3 highest:
+- Mohamed Salah: 440.00
+- Bryan Mbeumo: 319.00
+- Alejandro Garnacho: 281.00
+Top 3 lowest:
+- Aaron Ramsdale: 0.00
+- Łukasz Fabiański: 0.00
+- Antonín Kinský: 0.00
+
+Metric: stats_misc_Yellow Cards
+Top 3 highest:
+- Saša Lukić: 12.00
+- Morgan Gibbs-White: 11.00
+- Will Hughes: 11.00
+Top 3 lowest:
+- Wataru Endo: 0.00
+- William Osula: 0.00
+- Archie Gray: 0.00
+
+Metric: stats_misc_Red Cards
+Top 3 highest:
+- Bruno Fernandes: 2.00
+- Jack Stephens: 2.00
+- Myles Lewis-Skelly: 2.00
+Top 3 lowest:
+- Mateus Fernandes: 0.00
+- Michael Keane: 0.00
+- Michael Kayode: 0.00
+
+Metric: stats_misc_Fouls Committed
+Top 3 highest:
+- Liam Delap: 67.00
+- João Gomes: 67.00
+- Antoine Semenyo: 66.00
+Top 3 lowest:
+- Kieran Tierney: 0.00
+- Bernd Leno: 0.00
+- André Onana: 0.00
+
+Metric: stats_misc_Fouls Drawn
+Top 3 highest:
+- Bruno Guimarães: 100.00
+- Matheus Cunha: 69.00
+- John McGinn: 67.00
+Top 3 lowest:
+- Ben Godfrey: 0.00
+- Alphonse Areola: 0.00
+- Michael Keane: 0.00
+
+Metric: stats_misc_Offsides
+Top 3 highest:
+- Dominic Calvert-Lewin: 27.00
+- Chris Wood: 26.00
+- Jamie Vardy: 25.00
+Top 3 lowest:
+- Aaron Cresswell: 0.00
+- Aaron Ramsdale: 0.00
+- Łukasz Fabiański: 0.00
+
+Metric: stats_misc_Crosses
+Top 3 highest:
+- Pedro Porro: 191.00
+- Bryan Mbeumo: 182.00
+- Bruno Fernandes: 172.00
+Top 3 lowest:
+- Łukasz Fabiański: 0.00
+- Aaron Ramsdale: 0.00
+- Alisson: 0.00
+
+Metric: stats_misc_Ball Recoveries
+Top 3 highest:
+- Moisés Caicedo: 203.00
+- Elliot Anderson: 197.00
+- Bruno Fernandes: 192.00
+Top 3 lowest:
+- Reiss Nelson: 0.00
+- Altay Bayındır: 0.00
+- Fraser Forster: 1.00
+
+Metric: stats_misc_Aerials Won
+Top 3 highest:
+- Dan Burn: 134.00
+- Nathan Collins: 112.00
+- Virgil van Dijk: 111.00
+Top 3 lowest:
+- Andrés García: 0.00
+- Tyrique George: 0.00
+- Timo Werner: 0.00
+
+Metric: stats_misc_Aerials Lost
+Top 3 highest:
+- Chris Wood: 129.00
+- Jean-Philippe Mateta: 99.00
+- Jørgen Strand Larsen: 96.00
+Top 3 lowest:
+- Aaron Ramsdale: 0.00
+- Ben Godfrey: 0.00
+- Caoimhín Kelleher: 0.00
+
+Metric: stats_misc_% of Aerials Won
+Top 3 highest:
+- Aaron Ramsdale: 100.00
+- Alisson: 100.00
+- Alphonse Areola: 100.00
+Top 3 lowest:
+- Welington: 0.00
+- Tyrique George: 0.00
+- Tyrell Malacia: 0.00
+
+Metric: stats_keeper_Goals Against/90
+Top 3 highest:
+- Danny Ward: 4.00
+- Altay Bayındır: 4.00
+- Christian Walton: 2.67
+Top 3 lowest:
+- Marcus Rashford: 0.00
+- Matt Doherty: 0.00
+- Matt O'Riley: 0.00
+
+Metric: stats_keeper_Save Percentage
+Top 3 highest:
+- Neto: 84.60
+- Mark Travers: 80.00
+- Robert Sánchez: 76.30
+Top 3 lowest:
+- Luke Shaw: 0.00
+- Marshall Munetsi: 0.00
+- Martin Ødegaard: 0.00
+
+Metric: stats_keeper_Clean Sheet Percentage
+Top 3 highest:
+- Robin Olsen: 100.00
+- Hákon Rafn Valdimarsson: 100.00
+- Martin Dúbravka: 50.00
+Top 3 lowest:
+- Lucas Digne: 0.00
+- Marco Asensio: 0.00
+- Marcos Senesi: 0.00
+
+Metric: stats_keeper_Save% (Penalty Kicks)
+Top 3 highest:
+- Caoimhín Kelleher: 100.00
+- Jordan Pickford: 100.00
+- Emiliano Martínez: 50.00
+Top 3 lowest:
+- Mateus Fernandes: 0.00
+- Michail Antonio: 0.00
+- Michael Keane: 0.00
+
